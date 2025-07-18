@@ -112,7 +112,7 @@ Me chamo Lucca Lima, tenho 20 anos e sou natural de Valparaiso de Goiás. Atualm
     <img
             align="left" 
             alt="GitHub Stats" 
-            height="200" 
+            height="210" 
             style="padding-left: 10px;"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=devluccalima&layout=compact&langs_count=5&theme=tokyonight" 
     />
